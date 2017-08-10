@@ -1,9 +1,9 @@
 # solar-water-filters
 design for emergencies like earthquakes or inaccessible places where filtered water is hard to obtain
 
-https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing
-![filter design](https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing"solar water filter design based on eliodomestico")
-https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing
+
+![filter design](https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing "solar water filter design based on eliodomestico")
+
 
 
 Story:
