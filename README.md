@@ -3,6 +3,10 @@ design for emergencies like earthquakes or inaccessible places where filtered wa
 
 
 ![filter design](https://lh4.googleusercontent.com/thuoTvKVbvFpbFd-Hn0xmlfaqaLh5MqHjNqfySxb_IF9Oh0wqxexkjv5ZBnitfuIXIzKrQd8paAWWqk=w1920-h857 "solar water filter design based on eliodomestico")
+![filter design](https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing "solar water filter design based on eliodomestico")
+
+
+
 
 
 
