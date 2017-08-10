@@ -2,7 +2,7 @@
 design for emergencies like earthquakes or inaccessible places where filtered water is hard to obtain
 
 
-![filter design](https://mega.nz/963cae36-0c45-4796-abc5-68582c7748e3 "solar water filter design based on eliodomestico")
+![filter design](blob:https://mega.nz/963cae36-0c45-4796-abc5-68582c7748e3 "solar water filter design based on eliodomestico")
 
 
 
