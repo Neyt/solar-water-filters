@@ -42,6 +42,11 @@ Then for the next two weeks I focused on getting water filters. I though they co
 http://cdn.lifestraw.com/wp-content/uploads/2015/09/Header-Lifestraw1-1400x589.jpg
 https://drive.google.com/open?id=0B_Mum6FcDe3eMjJhd3o5eC1FbkU
 
+One day Roberto Houser (Universidad Pacifico Ecuador) sent me a suggestion that instead of bringing those (very expensive and took time) we could do an "Eliodomestico" (http://www.gabrielediamanti.com/projects/eliodomestico---how-does-it-work/) wich I though was a great idea, the problem is that in order to make it more accesible we had to redesign it (normally clay ovens are not that big, so I decided to make it modular) so they can make one piece. and create the outside. 
+The beauty of this is that that 1 piece can be 3d printed and be used as the mold.
+
+But overall, we take it to remote areas where poeple have no jobs and now they can create this products as part as the economical reactivation after the disasters.
+
 
 Here are the parts
 https://drive.google.com/open?id=0B_Mum6FcDe3eMi16MjlGS2E1dDg
