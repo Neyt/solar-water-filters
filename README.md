@@ -8,12 +8,7 @@ design for emergencies like earthquakes or inaccessible places where filtered wa
 ### Original design was based on Eliodomestico. And I want to thank Roberto Houser for redirecting me to that idea.
 ### This is also a product that we want to give people in small towns so they can produce it and reactivate their economy.
 
-
-
-
-
-![filter design](https://lh4.googleusercontent.com/thuoTvKVbvFpbFd-Hn0xmlfaqaLh5MqHjNqfySxb_IF9Oh0wqxexkjv5ZBnitfuIXIzKrQd8paAWWqk=w1920-h857 "solar water filter design based on eliodomestico")
-![filter design](https://drive.google.com/file/d/0B_Mum6FcDe3eUi1JZTJ3NWMyR28/view?usp=sharing "solar water filter design based on eliodomestico")
+![filter design](https://lh4.googleusercontent.com/kLs3hiJOYXk3sTMfmlawBcDiDi4Y8-jMDZjcHttni81Ww-YIJ4oYjxtEo3nwgLyLSZH5XFbXsaBDY60=w1282-h847 "solar water filter design based on eliodomestico")
 
 
 
