@@ -1,6 +1,9 @@
 # solar-water-filters
 design for emergencies like earthquakes or inaccessible places where filtered water is hard to obtain
 
+![modular eliodomestico image](https://drive.google.com/file/d/0B_Mum6FcDe3eNTE5WGtRMTJfMXc/view?usp=sharinge "modular eliodomestico")
+
+
 ## I created, with a lot of help and input, a "lego like" piece that once assambeled becomes a Solar water filter. 
 ### Original design was based on Eliodomestico. And I want to thank Roberto Houser for redirecting me to that idea.
 ### This is also a product that we want to give people in small towns so they can produce it and reactivate their economy.
