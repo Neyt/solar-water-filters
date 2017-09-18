@@ -49,7 +49,7 @@ But overall, we take it to remote areas where poeple have no jobs and now they c
 
 
 Here are the parts
-https://drive.google.com/open?id=0B_Mum6FcDe3eMi16MjlGS2E1dDg
+https://drive.google.com/drive/folders/0B_Mum6FcDe3eSDdjOEJ6em1YQms?usp=sharing
 
 or here
 
